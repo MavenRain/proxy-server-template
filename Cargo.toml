@@ -1,0 +1,9 @@
+[package]
+name = "proxy-server"
+version = "0.1.0"
+authors = ["Onyeka Obi"]
+edition = "2018"
+
+[dependencies]
+hyper = "0.12"
+futures = "0.1"
